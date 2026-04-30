@@ -17,7 +17,8 @@ Mostly Neovim & Git & Fairy Glitter (for that magic)
 - Proficient C — systems programming coursework
 - Proficient Python — scripting and tooling
 - Basic Shell (Bash/Fish) — primary for automation and tooling
-- Basic Verilog / VHDL - Working on a digital signal proejct right now
+
+Working on a digital signal proejct right now using Verilong
 
 
 ## Projects:
