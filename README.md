@@ -9,7 +9,7 @@ Electrical Engineering (+ Masters in Biomedical Engineering) student at UNSW.
 
 ## What I use :
 Mostly Neovim & Git & Fairy Glitter (for that magic) 
-> *A problem is easiest to fix once you know what it is* <
+> *A problem is easiest to fix once you know what it is* 
 
 ## Skills:
 
