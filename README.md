@@ -6,10 +6,10 @@ You can click the Preview link to take a look at your changes.
 # Ayush Paudel
 
 Electrical Engineering (+ Masters in Biomedical Engineering) student at UNSW.
-"A problem is easiest to fix once you know what it is"
 
 ## What I use :
 Mostly Neovim & Git & Fairy Glitter (for that magic) 
+> *A problem is easiest to fix once you know what it is* <
 
 ## Skills:
 
